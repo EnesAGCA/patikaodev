@@ -1,8 +1,8 @@
 # HTML Kullanarak Gelistirdigim Web Sayfam
 
-Html eğitimi kapsamında yaptığım bu ödevde bir adet README.md ve index.html dosyası bulunmaktadır.
+Devam eden kursta yeni öğrendiğim bilgilerle web sayfamı geliştirmeye devam ediyorum
 
 ## İçerik 
-Bu sayfada kendi hakkımda bilgiler bulunmaktadır.
+Bu sayfada kendi hakkımda bilgiler bulunmaktadır ve ek olarak en sevdiğim film,dizi ve kitaplar eklenip bir görselde tanıtımı yapılmıştır
 
 [Bu link üzerinden patika adresime gidebilirsiniz](https://app.patika.dev/enesagca)
